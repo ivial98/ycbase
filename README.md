@@ -1,5 +1,5 @@
 # ycbase
-GNSS recievers were always expensive but ZED-F9P makes posible to create an afordable base station. This project will provide base station managment software and assembling instructions.
+GNSS receivers were always expensive, but ZED-F9P makes it possible to create an affordable base station. This project will provide base station management software and assembling instructions.
 
 Hardware list:
 - simpleRTK2B RTK board with soldered headers - 198€
